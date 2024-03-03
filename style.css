@@ -336,7 +336,7 @@ section {
 
 .education-details-container {
   display: contents;
-  justify-content: left;
+  justify-content: center;
   flex-direction: column;
   margin-bottom: 2rem;
 }
@@ -403,7 +403,7 @@ article .icon {
   border-radius: 2rem;
   border: rgb(53, 53, 53) 0.1rem solid;
   border-color: rgb(163, 163, 163);
-  background: (250, 250, 250);
+  background: rgb(250, 250, 250);
   margin: 2rem auto;
   padding: 0.5rem;
 }
@@ -445,7 +445,7 @@ footer p {
 }
 .content {
   padding: 5px;
-  width: 300px;
+  width: 250px;
   text-align: center;
 }
 .r{
@@ -454,4 +454,7 @@ footer p {
 }
 .big-text {
   font-size: 200px;
+}
+.c {
+  align-items: center;
 }
