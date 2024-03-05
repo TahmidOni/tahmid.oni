@@ -10,8 +10,6 @@
   #projects {
     height: fit-content;
   }
-  #updates{
-    padding: 50px;
 }
 
 @media screen and (max-width: 1200px) {
