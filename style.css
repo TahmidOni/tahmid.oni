@@ -198,6 +198,10 @@ section {
   font-size: 1 rem;
   margin-bottom: 0.5rem;
 }
+.section__text__p4 {
+  font-size: 1 rem;
+  margin-bottom: 1.5rem;
+}
 
 .title {
   font-size: 3rem;
