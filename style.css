@@ -350,11 +350,17 @@ section {
   justify-content: space-around;
 }
 
+article0 {
+  display: flex;
+  width: 10rem;
+  justify-content: center;
+  gap: 0.5rem;
+}
 article {
   display: flex;
   width: 10rem;
-  justify-content: space-around;
-  gap: 0.5rem;
+  justify-content: center;
+  gap: 0.1rem;
 }
 
 article .icon {
